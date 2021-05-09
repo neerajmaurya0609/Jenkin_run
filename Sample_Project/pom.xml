@@ -5,6 +5,9 @@
 	<groupId>Sample_project</groupId>
 	<artifactId>Sample_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<properties>
+		<java.version>11</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.testng</groupId>
