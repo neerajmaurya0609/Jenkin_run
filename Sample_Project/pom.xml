@@ -50,7 +50,7 @@
 						<version>3.8.1</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testng.xml</suiteXmlFile>
+								<suiteXmlFile>testng_smoke_testing.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
