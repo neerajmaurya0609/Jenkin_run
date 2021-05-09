@@ -40,14 +40,13 @@
 		</dependency>
 	</dependencies>
 	<profiles>
-		<profile>
-			<id>t1</id>
+		<profile>			
 			<build>
 				<plugins>
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-surefire-plugin</artifactId>
-						<version>3.8.1</version>
+						<version>2.18.1</version>
 						<configuration>
 							<suiteXmlFiles>
 								<suiteXmlFile>testng_smoke_testing.xml</suiteXmlFile>
